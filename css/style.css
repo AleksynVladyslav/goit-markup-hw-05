@@ -126,7 +126,7 @@ ul {
 .active-page {
   position: relative;
 
-  color: var(--iris);
+  color: var(--ocean);
 }
 
 .active-page::after {
